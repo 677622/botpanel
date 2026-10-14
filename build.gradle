@@ -11,7 +11,7 @@ base {
 
 repositories {
 	maven { url = 'https://repo.opencollab.dev/maven-releases/' }
-	mmaven { url = 'https://repo.opencollab.dev/main/' }
+	mmavn { url = 'https://repo.opencollab.dev/main/' }
 	
 	
 
