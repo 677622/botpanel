@@ -11,8 +11,8 @@ base {
 
 repositories {
 	maven { url = 'https://repo.opencollab.dev/maven-releases/' }
-	maven { url = 'https://repo.opencollab.dev/maven-snapshots/' }
-}
+	maven { url = 'https://repo.opencollab.dev/main/' }
+	
 
 dependencies {
 	minecraft "com.mojang:minecraft:${project.minecraft_version}"
